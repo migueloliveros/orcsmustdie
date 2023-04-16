@@ -1,2 +1,4 @@
 # orcsmustdie
-open source and defi nft.
+#open source 
+#defi 
+#nft
